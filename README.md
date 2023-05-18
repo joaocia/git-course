@@ -8,6 +8,6 @@
 
 *comando git pull!
 
-*comando git fat!
+*comando git fetch! 
 
 
